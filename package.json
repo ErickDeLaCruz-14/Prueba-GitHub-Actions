@@ -1,0 +1,23 @@
+{
+  "name": "prueba-github-actions",
+  "version": "1.0.0",
+  "description": "Probando GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickDeLaCruz-14/Prueba-GitHub-Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickDeLaCruz-14/Prueba-GitHub-Actions/issues"
+  },
+  "homepage": "https://github.com/ErickDeLaCruz-14/Prueba-GitHub-Actions#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
