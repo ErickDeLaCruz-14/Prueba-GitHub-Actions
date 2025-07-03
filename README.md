@@ -1,7 +1,7 @@
 # Prueba-GitHub-Actions
 Probando GitHub Actions utilizando Node.js y jest para las pruebas
 
-La estructura del proyecto:
+# La estructura del proyecto:
 
 sum.js: función simple
 
@@ -13,7 +13,7 @@ package.json
 
 
 
-Practicas utilizadas:
+# Practicas utilizadas:
 
 Se añadió .gitignore para no subir node_modules
 
